@@ -2,7 +2,7 @@ const BLOG = {
   title: '科学引擎',
   author: 'Cthinker',
   email: 'dthinkc@gmail.com',
-  link: 'https://eminent-trout-d5a.notion.site/81c346ca008d40e59a252eff0f4781c5',
+  link: 'hhttps://eminent-trout-d5a.notion.site/81c346ca008d40e59a252eff0f4781c5',
   description: '科学人类进步的引擎',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
