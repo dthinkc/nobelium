@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: '科学引擎',
+  author: 'Cthinker',
+  email: 'dthinkc@gmail.com',
+  link: 'https://eminent-trout-d5a.notion.site/e027385f50a14d4d81f48f32bb0d14fa?v=9e9f25b5eed040bfb2efabd45e8402a8',
+  description: '科学人类进步的引擎',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
